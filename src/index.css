@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+:root {
+  /* Primary Colors */
+  --primary-dark-blue: #2b1d3b; /* Deep Blue for a more luxurious feel */
+  --primary-gold: #d4af37; /* Elegant Gold for highlights and buttons */
+
+  /* Secondary Colors */
+  --secondary-purple: #5e2a84; /* A rich purple for subtle accents */
+  --secondary-silver: #c0c0c0; /* A classy silver for lighter elements */
+
+  /* Backgrounds & Neutrals */
+  --bg-dark: #121212; /* Dark background for an elegant contrast */
+  --bg-light: #2c2c2c; /* Slightly lighter dark background for balance */
+  --bg-white: #ffffff; /* For text and contrast */
+  --neutral-dark: #3e3e3e; /* For elements like borders and shadows */
+
+  /* Error & Alerts */
+  --error-red: #e74c3c; /* Softened red for errors */
+  --warning-orange: #f39c12; /* A goldish-orange for warnings */
+
+  /* Typography */
+  --text-primary: #0e0f0ed4; /* Light text for readability */
+  --text-secondary:  #0e0f0ed4; /* Subtle secondary text color */
+}
+
+
